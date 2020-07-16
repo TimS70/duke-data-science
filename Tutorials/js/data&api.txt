@@ -1,0 +1,18 @@
+1) fetch(path to the resource)
+2) .then(response =>  {}// Response
+3) return.response.blob(); Complete data stream, grab the data in the response 
+	(e.g. identify as text or json)
+4) Make something with that data (e.g. image)
+request https
+/*
+GET get
+POST send
+ - fetch is asynchronous
+*/
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+https://www.youtube.com/watch?v=tc8DU14qX6I&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&t=0s
+
+api
+ - application programming interface
+

@@ -1,0 +1,14 @@
+Hypertext Preprocessor
+ - Backend (serverside programming language)
+ - Connects a Website to a database and enables to collect data
+ - Needs access to a local server
+
+Good to know
+ - You can write html inside php-files
+ - The server automatically detects .html or .php as starting page
+
+1) Setup local Server
+ - Get a local server with XAMPP. That enables to open the project output 
+   in the browser (with "localhost\")
+ - Touch databases with localhost\phpmyadmin
+ - Create root-folder in htdocs

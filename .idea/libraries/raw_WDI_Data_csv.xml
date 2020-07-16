@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="raw_WDI_Data_csv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MIDS_Data/World_Development_Indicators/raw_WDI_Data_csv.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

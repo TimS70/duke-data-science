@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NYC_311calls_2018">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MIDS_Data/NYC_311_ServiceRequests/NYC_311calls_2018.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

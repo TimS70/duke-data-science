@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All</title>
+</head>
+<body>
+    <script>
+
+        getData();
+
+        async function getData() {
+            // Default is Get
+            // Because we used "/api" as a post (not get), we can now use it as a get
+            const response = await fetch("/api");
+            const data = await response.json();
+            console.log(typeof(data));
+            console.log(data);
+        }
+    </script>
+</body>
+</html>

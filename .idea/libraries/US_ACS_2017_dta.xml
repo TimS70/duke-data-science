@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="US_ACS_2017.dta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MIDS_Data/US_AmericanCommunitySurvey/US_ACS_2017.dta.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

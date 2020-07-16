@@ -1,0 +1,10 @@
+CREATE TABLE gallery (
+    idGallery int(11) not null PRIMARY KEY AUTO_INCREMENT,
+    titleGallery LONGTEXT not null,
+    descGallery LONGTEXT not null,
+    imgFullNameGallery LONGTEXT not null,
+    orderGallery LONGTEXT not null
+);
+
+INSERT INTO users (uFirst, uLast, uMail, uPwd)
+    VALUES ("Tim", "S", "second-email@web.de", "123");
